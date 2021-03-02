@@ -2,7 +2,6 @@
 
 ### 原生组件
 ####  uploader组件
-![image](https://user-images.githubusercontent.com/14836228/109658416-88341d80-7ba1-11eb-8a01-dc68ceac0dce.png)
 
 博客地址： 封装一个uploader组件（纯Javascript版本） https://juejin.cn/post/6913447567896346632       
 源码地址： https://github.com/YY88Xu/uploader-js      
@@ -10,7 +9,6 @@
 ### Vue 组件
 #### Vue 2.0
 ##### 分页组件
-![image](https://user-images.githubusercontent.com/14836228/109658287-6044ba00-7ba1-11eb-8bbd-dc739e608520.png)
 
 源码地址： https://github.com/YY88Xu/sample-page
 
