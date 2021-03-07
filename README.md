@@ -6,12 +6,19 @@
 博客地址： [封装一个uploader组件（纯Javascript版本）](https://juejin.cn/post/6913447567896346632)        
 源码地址： https://github.com/YY88Xu/uploader-js      
 
+####  手写 Axios 核心代码
+博客地址： [手写 Axios 核心代码](https://juejin.cn/post/6936877920304496677)        
+源码地址： https://github.com/YY88Xu/axios-js      
+
 ###  🍒 Vue 组件
 #### 🍺 Vue 2.0
 ##### 分页组件
 
 源码地址： https://github.com/YY88Xu/sample-page
 
+##### 数字滚动组件
+
+源码地址： https://github.com/YY88Xu/vue2-component/blob/master/src/components/roll-count.vue
 
 #### 🍻 Vue 3.0
 #####  表单组件
