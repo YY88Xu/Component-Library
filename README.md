@@ -10,7 +10,7 @@
 博客地址： [手写 Axios 核心代码](https://juejin.cn/post/6936877920304496677)        
 源码地址： https://github.com/YY88Xu/axios-js      
 
-###  🍒 Vue 组件
+###  🍓 Vue 组件
 #### 🍺 Vue 2.0
 ##### 分页组件
 
@@ -27,7 +27,7 @@
 
 
 
-### 🍎 React 组件
+### 🍓 React 组件
 #### 倒计时组件
 博客地址： [一个倒计时组件引发的问题](https://juejin.cn/post/6930200963810590734)        
 
