@@ -38,7 +38,7 @@
 源码地址： https://github.com/YY88Xu/page-table-ant-git     
 
 
-### 🍊 CSS 样式组件
+### 🍓 CSS 样式组件
 #### 跳动的箭头
 
 博客地址： [一个不安分的箭头引发的思考（JS动画实现方式对比）](https://juejin.cn/post/6907037305052069895)  
