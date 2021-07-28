@@ -25,7 +25,9 @@
 博客地址： [从0到1封装表单组件（TypeScript + Vue3.0 版）](https://juejin.cn/post/6911301654008561672)       
 源码地址： https://github.com/YY88Xu/validate-form      
 
-
+#####  picker
+博客地址： [一个支持手机端和PC端的 Picker](https://juejin.cn/post/6986283004616736799)       
+源码地址： https://github.com/YY88Xu/scroll-picker 
 
 ### 🍎 React 组件
 #### 倒计时组件
